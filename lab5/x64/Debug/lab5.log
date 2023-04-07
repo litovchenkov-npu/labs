@@ -1,0 +1,8 @@
+﻿  game.cpp
+  main.cpp
+  player.cpp
+C:\Users\litov\source\repos\object-oriented-programming\lab5\player.cpp(41,18): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\litov\source\repos\object-oriented-programming\lab5\player.cpp(41,33): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\Users\litov\source\repos\object-oriented-programming\lab5\player.cpp(48,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  lab5.vcxproj -> C:\Users\litov\source\repos\object-oriented-programming\lab5\x64\Debug\lab5.exe
